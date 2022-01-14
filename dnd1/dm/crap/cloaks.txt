@@ -1,0 +1,17 @@
+Object	Weight	Cost (gp)	To Hit mod	AC Mod	Initiative Mod	Other
+Fine grey cloak	7	750				Regenerate +1 hp / 3 hours
+Black hooded cloak	10	650				Will save +1
+Cave-bear fur	65	250	3		-3	
+Sacred cloak	2	200		1		"Good only, Will save +1, vs Undead +1 to hit"
+Black and silver surcoat	10	160		2		Will and Fort save +1
+Embroidered surcoat	10	160		3		
+Mottled cloak	10	160		3		Evil only
+Russet cloak	3	160		2		Move +1
+Fine lion pelt	4	120	2			Fort save vs cold +1
+Black cape	4	100		2		Will save +1
+Buttoned cassock	6	100		2		Fort save vs cold +1
+Brown bear fur	45	75	2		-1	
+White wolf fur	20	30	1			
+Plain cloak	5	20		1		
+Black warg fur	20	15	3		-2	
+Warg fur	20	12	1		

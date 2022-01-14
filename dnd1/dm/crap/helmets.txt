@@ -1,0 +1,17 @@
+*Dragonhelm                      400 40000         100% 100  Eff vs fire/spell
+ Great helm                      380  5500  -2      95%  12
+ Spiked metal helmet             330  4500  -1      85%  12
+*White chain mail coif           260  4000          65%  12
+ Full metal helmet               300  4500  -1      85%  11
+ Metal helmet                    250  4500  -1      80%  10
+*Blood-encrusted helm            350  4250          75%  10 
+*Strange black helmet            230  8000         100%   9  Eff vs darkness, Ineff vs fire/light, Wizlight
+ S-runed Isengard helmet         235  4000          78%   9
+ Thick chain mail coif           260  3500          63%  10
+ Chain mail coif                 220  3000          60%   9
+*Basinet                         225  4000  -1      75%   8
+ Ringmail coif                   190  2500          60%   8
+ Horned helmet                   220  2500   1  -1  60%   8
+ Pot helm                        200  2000          55%   7
+ Reinforced leather helm         180   400          55%   4
+ Leather helmet                  130   180          45%   3

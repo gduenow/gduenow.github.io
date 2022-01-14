@@ -1,0 +1,13 @@
+All ability scores start at 8. Take 35 points to spread out among all abilities. The point cost follows, (with no base ability lower than 8 and none higher than 18):
+Ability score		Point cost
+==========================
+9			1
+10			2
+11			3
+12			4
+13			5
+14			6
+15			8
+16			10
+17			13
+18			16

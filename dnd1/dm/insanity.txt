@@ -1,0 +1,5 @@
+after 5 failed sanity checks, roll for one permanent insane trait.
+after gaining one permanent, start over with sanity checks, but get a permanent one after 4 failed
+etcetera
+
+list:

@@ -1,0 +1,47 @@
+Armor Proficiences.  N/A.  There are no limitations on armor for any character class other than the spell failure chance.
+
+Exotic Weapon Proficiency.  N/A.  See weapon classes in char_create.rtf.
+
+Improved Bull Rush, limited benefit.
+
+Improved Disarm, limited benefit.
+
+Improved Feint.  N/A.
+
+Improved Grapple, limited benefit.
+
+Improved Sunder, limited benefit.
+
+Improved Trip, limited benefit.
+
+Improved Unarmed Strike, limited benefit.
+
+Investigator, only Search checks improved.
+
+Martial Weapon Proficiency.  N/A.  See weapon classes in char_create.rtf.
+
+Mobility.  N/A.
+
+Negotiator.  N/A.
+
+Persuasive.  N/A.
+
+Quick Draw.  N/A.
+
+Rapid Reload.  N/A.
+
+Run, limited benefit.
+
+Shield Proficiency.  N/A.  Everyone can use shields.
+
+Shot on the Run.  N/A.
+
+Simple Weapon Proficiency.  N/A.  See weapon classes in char_create.rtf.
+
+Skill Focus.  N/A.
+
+Spring Attack.  N/A.
+
+Tower Shield Proficiency.  N/A.  Everyone can use tower shields if they are strong enough.
+
+Whirlwind Attack.  N/A.

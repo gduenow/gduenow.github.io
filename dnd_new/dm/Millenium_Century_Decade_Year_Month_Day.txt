@@ -1,0 +1,17 @@
+Hergelzhumar has no moon.
+
+Each year is composed of 251 days.
+
+Each day is 32 hours long.
+
+The year is broken into Spring/Summer/Fall/Winter.
+Spring and Fall are 60 days each.
+Summer and Winter are 65 days long.
+1 spare day is called Seer's day and is between Winter and Spring.
+
+Weeks are 5 days long:
+Vulpesday	Fox
+Alcesday	Moose
+Ursusday	Bear
+Guloday		Wolverine
+Sorexday	Shrew	(Rest)
